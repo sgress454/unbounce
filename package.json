@@ -1,0 +1,19 @@
+{
+  "name": "unbounce",
+  "version": "0.0.0",
+  "description": "Given an asynchronous Javascript function, return a version such that repeated calls will result in a single run being queued up with the arguments of the most recent call.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sgress454/unbounce.git"
+  },
+  "author": "Scott Gress <scottmgress@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sgress454/unbounce/issues"
+  },
+  "homepage": "https://github.com/sgress454/unbounce"
+}
